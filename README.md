@@ -1,8 +1,10 @@
 # sample_rails_app-template
 
-このリポジトリは https://github.com/yasslab/sample_apps/tree/main/6_1/ch14 のソースコードをそのまま持ってきています
+このリポジトリは https://github.com/yasslab/sample_apps/tree/main/6_1/ch14 のソースコードをそのまま持ってきています。
 
-以下は https://github.com/yasslab/sample_apps/tree/main/6_1/ch14 の READMEになります
+以下は https://github.com/yasslab/sample_apps/tree/main/6_1/ch14 の READMEになります。
+
+ライセンスは [こちら](https://github.com/yasslab/sample_apps#octocat-%E6%9C%AC%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9) になります。
 
 ---
 
